@@ -33,11 +33,12 @@ Coming Soon.
 1. FFMPEG Binary for System
 
 ##### Tested with
-1. Ubuntu 16.04 LTS
+1. Ubuntu 16.04 LTS ,18.4
 2. Windows 10 (64-bit)
 3. Windows 10 (32-bit)
 4. LibreElec ARM (Raspberry Pi)
 5. LibreElec x86
+6. CoreELEC
 
 ##### Credits
 Credit to the Following Authors/Projects who I Borrowed Some Ideas and/or Code:
