@@ -5,7 +5,20 @@ IPTV Live TV and Radio PVR Client Addon for [Kodi] (http://kodi.tv)
 
 ### Linux
 
-Coming Soon.
+### First step's 
+
+# A. # cd ./Downloads  or any location and git clone kodi + pvr.sql
+# B. change downloaded pvr.sql name to pvr.iptvsimple
+# C. Example command for rename file name 
+# ↓ ↓ ↓ ↓
+mv ./Downloads/pvr.sql ./Downloads/pvr.iptvsimple
+
+
+git clone --branch Leia https://github.com/xbmc/xbmc.git
+git clone https://github.com/BlackGlassSkin/pvr.sql.git
+cd pvr.iptvsimple && mkdir build && cd build
+cmake -DADDONS_TO_BUILD=pvr.iptvsimple -DADDON_SRC_PREFIX=../.. -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=../../xbmc/addons -DPACKAGE_ZIP=1 ../../xbmc/cmake/addons
+make
 
 ### Windows
 
