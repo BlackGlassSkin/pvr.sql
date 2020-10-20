@@ -22,6 +22,7 @@ git clone https://github.com/BlackGlassSkin/pvr.sql.git
 cd pvr.iptvsimple && mkdir build && cd build
 
 cmake -DADDONS_TO_BUILD=pvr.iptvsimple -DADDON_SRC_PREFIX=../.. -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=../../xbmc/addons -DPACKAGE_ZIP=1 ../../xbmc/cmake/addons
+
 make
 
 ### Windows
