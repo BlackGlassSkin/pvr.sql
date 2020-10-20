@@ -12,12 +12,12 @@ IPTV Live TV and Radio PVR Client Addon for [Kodi] (http://kodi.tv)
 # C). Example command for rename file name and compilation
 # ↓ ↓ ↓ ↓
 
-mv ./Downloads/pvr.sql ./Downloads/pvr.iptvsimple
-
 
 git clone --branch Leia https://github.com/xbmc/xbmc.git
 
 git clone https://github.com/BlackGlassSkin/pvr.sql.git
+
+mv ./Downloads/pvr.sql ./Downloads/pvr.iptvsimple
 
 cd pvr.iptvsimple && mkdir build && cd build
 
