@@ -9,8 +9,9 @@ IPTV Live TV and Radio PVR Client Addon for [Kodi] (http://kodi.tv)
 
 # A. # cd ./Downloads  or any location and git clone kodi + pvr.sql
 # B. change downloaded pvr.sql name to pvr.iptvsimple
-# C. Example command for rename file name 
+# C. Example command for rename file name and compilation
 # ↓ ↓ ↓ ↓
+
 mv ./Downloads/pvr.sql ./Downloads/pvr.iptvsimple
 
 
