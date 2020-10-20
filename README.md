@@ -60,7 +60,7 @@ Coming Soon.
 2. Windows 10 (64-bit)
 3. Windows 10 (32-bit)
 4. LibreElec ARM (Raspberry Pi)
-5. LibreELEC
+5. LibreELEC-Generic.x86
 6. CoreELEC
 
 ##### Credits
