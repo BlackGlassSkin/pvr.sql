@@ -25,9 +25,9 @@ cmake -DADDONS_TO_BUILD=pvr.iptvsimple -DADDON_SRC_PREFIX=../.. -DCMAKE_BUILD_TY
 
 make
 
-# Done! compiled addon can be found in
+Done! compiled addon can be found in
 
-#Downloads/xbmc/addons/pvr.sql
+Downloads/xbmc/addons/pvr.sql
 
 ### Windows
 
