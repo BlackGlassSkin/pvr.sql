@@ -31,6 +31,7 @@ Coming Soon.
 
 ##### Requirements
 1. FFMPEG Binary for System
+2. Kodi 18.8
 
 ##### Tested with
 1. Ubuntu 16.04 LTS ,18.04
